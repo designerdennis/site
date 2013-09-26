@@ -1,0 +1,17 @@
+---
+layout: default
+title: Designer Dennis
+---
+
+{% for post in site.posts %}
+<article>
+  <header>
+    <h1>{{ post.title }}</h1>
+    <strong>{{ post.description }}</strong>
+  </header>
+  <figure>
+    {{ post.content }}
+  </figure>
+</article>
+
+{% endfor %}
