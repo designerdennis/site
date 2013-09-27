@@ -1,6 +1,6 @@
 ---
-title:  "Smeulders Outstanding"
-description: "Stylized"
+title:  "Outstanding Inside"
+description: "Smeulders Interieurgroep Portfolioboek"
 ---
 
 ![Smeulders-Outstanding_01](images/work/Smeulders-Outstanding_01.jpg)

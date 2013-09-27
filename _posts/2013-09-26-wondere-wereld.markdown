@@ -1,6 +1,6 @@
 ---
-title:  "Wondere wereld!"
-description: "Met taart en balonnebn"
+title:  "Feest Beesten!"
+description: "Uitnodiging illustraties"
 ---
 
 ![Verjaardag James](images/work/james.png)
