@@ -1,6 +1,6 @@
 ---
 title:  "Bus Stop Bakery"
-description: "Devil delight wrapped in cup"
+description: "Branding en illustraties voor Rudolph van Veen"
 ---
 
 ![Bus Stop Bakery](images/work/Bus Stop Bakery.png)

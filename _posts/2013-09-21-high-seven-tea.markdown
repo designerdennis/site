@@ -1,6 +1,6 @@
 ---
-title:  "High-Seven-Tea"
-description: "A cup of tea for when you are seventy"
+title:  "Hi Seven-Tea"
+description: "Uitnodiging concept 70e verjaardag (High tea)"
 ---
 
 ![High-Seven-Tea](images/work/High-Seven-Tea.png)

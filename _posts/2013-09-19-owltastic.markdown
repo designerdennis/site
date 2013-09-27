@@ -1,6 +1,6 @@
 ---
-title:  "Owltastic"
-description: "Retro card"
+title:  "Knap uiltje!"
+description: "Retro geboortekaarten"
 ---
 
 ![Otis cards 01](images/work/Otis-cards-01.png)
