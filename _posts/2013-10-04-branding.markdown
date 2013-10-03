@@ -1,0 +1,6 @@
+---
+title:  "rotsen in de 'branding'"
+description: "enkele sterke merken"
+---
+
+![Branding](images/work/logos.png)
