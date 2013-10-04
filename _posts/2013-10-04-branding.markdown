@@ -3,4 +3,4 @@ title:  "rotsen in de 'branding'"
 description: "enkele sterke merken"
 ---
 
-![Branding](images/work/logos1.png)![Branding](images/work/logos2.png)
+![Branding](images/work/logos1.png+images/work/logos2.png)
