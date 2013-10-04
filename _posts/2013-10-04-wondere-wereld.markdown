@@ -5,4 +5,3 @@ description: "Uitnodiging illustraties"
 
 ![Verjaardag James](images/work/james.png)
 ![Verjaardag Otis](images/work/otis.png)
-![Verjaardag Otis](images/work/otis.png)
