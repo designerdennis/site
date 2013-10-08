@@ -1,6 +1,6 @@
 ---
-title:  "Op zoek naar een kinderboek?"
-description: "(exclusieve preview!) Binnenkort te bestellen"
+title:  "Lach eens naar het logootje"
+description: "branding William Damwijk"
 ---
 
-![Familie Drakosaurus](images/work/Drakosaurus_preview.png)
+![WDF](images/work/WDF.png)
