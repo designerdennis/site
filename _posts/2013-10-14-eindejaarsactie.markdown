@@ -1,5 +1,5 @@
 ---
-title:  "maak eens kennis met designerdennis"
+title:  "maak kennis met designerdennis"
 description: "wat kan ik voor ú doen?"
 ---
 
