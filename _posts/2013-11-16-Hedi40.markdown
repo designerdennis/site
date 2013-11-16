@@ -1,5 +1,5 @@
 ---
-title:  "Boekje 'Hé, die is 40!'"
+title:  "Boekje: Hé, die is 40!"
 description: "design van 40 pagina's met 40 teksten van 40 vrienden en familie want Hedi is 40 jaar"
 ---
 
