@@ -1,6 +1,6 @@
 ---
-title:  "Your Sport Pro"
-description: "Nieuwe identiteit met 'I LOVE SPORT' als uitgangspunt en 'HEART IN MOTION' als concept"
+title:  "Cover story"
+description: "Boek Cover en Banner design voor auteur, spreker & consultant Sander de Bruijn"
 ---
 
-![Actie](images/work/YSP_HS_site.png)
+![Actie](images/work/HGR_800x210px_site.png)
