@@ -1,6 +1,6 @@
 ---
-title:  "Rennevoirt in een nieuw jasje"
-description: "Nieuwe identiteit Jenaplanschool Rennevoirt met als ambassadeur 'Rick van Rennevoirt'"
+title:  "Cover story"
+description: "Boek Cover en Banner design voor auteur, spreker & consultant Sander de Bruijn"
 ---
 
-![Actie](images/work/Rennevoirt HS_site.png)
+![Actie](images/work/HGR_800x210px_site.png)
