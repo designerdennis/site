@@ -1,6 +1,6 @@
 ---
-title:  "Rennevoirt in een nieuw jasje"
-description: "Nieuwe identiteit Jenaplanschool Rennevoirt met als ambassadeur 'Rick van Rennevoirt'"
+title:  "Your Sport Pro"
+description: "Nieuwe identiteit met I LOVE SPORT als uitgangspunt en HEART IN MOTION als concept"
 ---
 
-![Actie](images/work/Rennevoirt HS_site.png)
+![Actie](images/work/YSP_HS_site.png)
