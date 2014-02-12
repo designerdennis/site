@@ -1,6 +1,6 @@
 ---
 title:  "I Am Your Sport Pro"
-description: "Nieuwe identiteit Your Sport Pro met 'I LOVE SPORT' als uitgangspunt en 'HEART IN MOTION' als concept"
+description: "Nieuwe identiteit Your Sport Pro | uitgangspunt: 'I LOVE SPORT' | concept: 'HEART IN MOTION'"
 ---
 
 ![Actie](images/work/YSP_HS_site.png)
