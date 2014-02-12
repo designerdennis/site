@@ -1,6 +1,6 @@
 ---
-title:  "Jenaplanschool Rennevoirt in een nieuw jasje"
-description: "Basisschool Rennevoirt voorzien van een identiteit met als ambassadeur Rick van Rennevoirt"
+title:  "Rennevoirt in een nieuw jasje"
+description: "Jenaplanschool Rennevoirt voorzien van een identiteit met als ambassadeur Rick van Rennevoirt"
 ---
 
 ![Actie](images/work/Rennevoirt HS_site.png)
