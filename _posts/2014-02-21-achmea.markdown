@@ -1,6 +1,6 @@
 ---
 title:  "Achmea"
-description: "New online identity Achmea. Redesigned colors, graphics, iconography, photography and typography"
+description: "New online identity Achmea. Redesigned charts, colors, graphics, iconography, photography and typography"
 ---
 
 ![Actie](images/work/Achmea_site.png)
