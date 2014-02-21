@@ -1,6 +1,6 @@
 ---
 title:  "Achmea"
-description: "online branding achmea.nl - achmea.com Restyling kleurenpalet, organogrammen, iconografie, fotografie en typografie"
+description: "New online identity Achmea. Redesigned colors, graphics, iconography, photography and typography"
 ---
 
 ![Actie](images/work/Achmea_site.png)
