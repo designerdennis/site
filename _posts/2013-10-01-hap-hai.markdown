@@ -1,6 +1,0 @@
----
-title:  "Take Mie Away"
-description: "mie en nasi to go voor snackbars"
----
-
-![hap-hai](images/work/Hap Hai.png)
