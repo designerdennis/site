@@ -1,5 +1,5 @@
 ---
-title:  "rerbranding studentsounds"
+title:  "rebranding studentsounds"
 description: "nieuwe identiteit voor grootste studentenfeest organisator van zuid-nederland"
 ---
 
